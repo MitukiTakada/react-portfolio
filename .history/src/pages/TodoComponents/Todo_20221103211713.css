@@ -1,0 +1,9 @@
+.todo {
+  padding: 20px;
+  background-image: url(./img/mountain.jpg);
+  height: calc(100vh - 70px);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+}

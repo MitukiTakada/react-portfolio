@@ -1,0 +1,16 @@
+.main {
+  flex: 70%;
+  height: 100vh;
+}
+.note-edit,
+.note-preview {
+  height: 50vh;
+}
+.note-edit {
+  padding: 25px;
+}
+
+.note-edit input,
+textarea {
+  display: ;
+}

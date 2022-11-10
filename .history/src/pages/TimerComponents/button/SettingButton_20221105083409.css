@@ -1,0 +1,13 @@
+.setting-button {
+  width: auto;
+  border-radius: 10px;
+  padding: 10px 20px;
+  font-size: 1.4rem;
+  line-height: 36px;
+  display: flex;
+}
+.s-b-contents svg {
+  width: 35px;
+  height: 35px;
+}
+.setting-button

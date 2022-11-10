@@ -1,0 +1,14 @@
+.timer-body {
+  background-image: url(./img/pomodoroImg.jpg);
+  height: calc(100vh - 70px);
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  color: #eee;
+}
+
+.timer {
+  padding-top: 50px;
+  max-width: 340px;
+  margin: 0 auto;
+}

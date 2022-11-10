@@ -1,0 +1,74 @@
+.main {
+  flex: 70%;
+  height: calc(100vh - 70px);
+}
+.note-edit,
+.note-preview {
+  height: 50vh;
+}
+.note-edit {
+  padding: 25px;
+}
+
+.note-edit input,
+textarea {
+  display: block;
+  border: 1px solid #ddd;
+  margin-bottom: 20px;
+  width: 100%;
+  height: calc(50vh - 130px);
+  padding: 5px;
+  resize: none;
+  font-size: 16px;
+}
+
+.note-edit input {
+  height: 50px;
+  font-size: 2rem;
+}
+
+.note-preview {
+  border-top: 1px solid #ddd;
+  overflow-y: scroll;
+  background: rgba(0, 0, 0, 0.04)
+}
+.preview-title {
+  padding: 25px 25px 0 25px;
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.preview-content {
+  line-height: 2rem;
+  padding: 0 25px 25px 25px;
+}
+.no-note {
+  flex: 70%;
+  line-height: 100vh;
+  align-items: center;
+  font-size: 2rem;
+  text-align: center;
+  color: #999;
+}
+
+.next-btn {
+  padding: 10px 15px;
+  color: black;
+  font-weight: bold;
+  font-size: 1.25rem;
+  box-shadow: 5px 5px 10px black;
+  border-radius: 5px;
+  transition: all 0.3s;
+  background-color: chartreuse;
+  opacity: 0.8;
+}
+.next-btn:hover {
+  box-shadow: none;
+  transform: translate(3px, 3px);
+  opacity: 1;
+}
+.next-btn-area {
+  position: absolute;
+  bottom: 50px;
+  right: 50px;
+}

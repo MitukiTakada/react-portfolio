@@ -1,0 +1,10 @@
+.playButton svg {
+  
+}
+.playButton:hover {
+  transform: translateY(3px);
+  box-shadow: none;
+}
+.playButtonArea {
+  margin-top: 30px;
+}

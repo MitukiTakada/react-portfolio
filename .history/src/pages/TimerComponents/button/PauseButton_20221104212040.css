@@ -1,0 +1,15 @@
+.pauseButton {
+  color: antiquewhite;
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 10px 15px;
+  transition: all 0.3s;
+}
+
+.pauseButton:hover {
+  transform: translateY(3px);
+  box-shadow: none;
+}
+.pauseButtonArea {
+  margin-top: 30px;
+}

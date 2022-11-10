@@ -1,0 +1,6 @@
+.taskCard {
+  width: 350px;
+  padding: 10px 25px 25px 25px;
+  background-color: rgb(228,228,228);
+  border-radius: 10px;
+}

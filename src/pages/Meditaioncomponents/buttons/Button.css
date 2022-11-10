@@ -1,0 +1,32 @@
+.btn {
+  padding: 10px 15px;
+  color: whitesmoke;
+  font-weight: bold;
+  font-size: 1.25rem;
+  box-shadow: 5px 5px 10px black;
+  border-radius: 5px;
+  transition: all 0.3s;
+  opacity: 0.8;
+}
+.btn:hover {
+  box-shadow: none;
+  transform: translate(3px, 3px);
+  opacity: 1;
+}
+
+.start {
+  background-color: rgb(54, 185, 185);
+}
+.stop {
+  background-color: rgb(214, 29, 29);
+}
+
+.next {
+  margin-top: 50px;
+  background-color: chartreuse;
+  color: black;
+}
+.next-btn-area {
+  display: flex;
+  justify-content: center;
+}

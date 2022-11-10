@@ -1,0 +1,7 @@
+.login {
+
+}
+.login-body {
+  background-color: rgb(250, 239, 239);
+  height: calc(100vh - 70px);
+}

@@ -1,0 +1,16 @@
+.settings {
+  display: flex;
+}
+
+.slider {
+  height: 40px;
+  border: 2px, solid, red;
+  border-radius: 20px;
+}
+.handle {
+  background-color: var;
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+}

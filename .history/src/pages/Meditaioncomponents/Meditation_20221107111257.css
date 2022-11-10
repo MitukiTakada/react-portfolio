@@ -1,0 +1,7 @@
+.meditation {
+  background-image: url(./img/meditation.jpg);
+  height: calc(100vh - 70px);
+  background-size: cover;
+  background-position: center;
+}
+.

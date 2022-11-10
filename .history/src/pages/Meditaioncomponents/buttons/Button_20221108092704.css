@@ -1,0 +1,13 @@
+.btn {
+  padding: 10px 15px;
+  color: whitesmoke;
+  font-weight: bold;
+  font-size: 1.25rem;
+  box-shadow: 5px 5px 10px black;
+  border-radius: 5px;
+  transition: all 0.3s;
+}
+.common-btn:hover {
+  box-shadow: none;
+  transform: translate(3px, 3px);
+}

@@ -1,0 +1,9 @@
+.side-bar {
+  flex: 30%;
+}
+.title-text h1 {
+  font-size: 2rem;
+}
+.side-top {
+  display: flex;
+}

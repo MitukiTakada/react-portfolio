@@ -1,0 +1,8 @@
+.common-btn {
+  padding: 10px 15px;
+  color: whitesmoke;
+  font-weight: bold;
+  font-size: 1.25rem;
+  box-shadow: 5px 5px 10px black;
+  color: rgb(212, 155, 155);
+}

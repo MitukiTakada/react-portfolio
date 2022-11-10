@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  align-items: center;
+  background-color: rgb(55, 212, 212);
+  height: 70px;
+  justify-content: ;
+}
+
+.pages {
+  display: flex;  
+}
+.pages a {
+  margin-right: 25px;
+}

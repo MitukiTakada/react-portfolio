@@ -1,0 +1,9 @@
+.back-btn {
+  height: 40px;
+  width: 40px;
+  margin-top: 55px;
+  transition: all 0.3s;
+}
+.back-btn:hover {
+  transform: translateY(3px);
+}

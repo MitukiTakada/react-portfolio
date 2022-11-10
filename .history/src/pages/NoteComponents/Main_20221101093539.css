@@ -1,0 +1,34 @@
+.main {
+  flex: 70%;
+  height: 100vh;
+}
+.note-edit,
+.note-preview {
+  height: 50vh;
+}
+.note-edit {
+  padding: 25px;
+}
+
+.note-edit input,
+textarea {
+  display: block;
+  border: 1px solid #ddd;
+  margin-bottom: 20px;
+  width: 100%;
+  height: calc(50vh - 130px);
+  padding: 5px;
+  resize: none;
+  font-size: 16px;
+}
+
+.note-edit input {
+  height: 50px;
+  font-size: 2rem;
+}
+
+.note-preview {
+  border-top: 1px solid #ddd;
+  overflow-y: scroll;
+  back
+}

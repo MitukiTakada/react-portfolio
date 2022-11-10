@@ -1,0 +1,8 @@
+.settings {
+  display: flex;
+}
+
+.slider {
+  height: 40px;
+  borfer: 2px, solid, red;
+}

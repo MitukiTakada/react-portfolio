@@ -1,0 +1,10 @@
+.playButton {
+  height: 30px;
+}
+.playButton:hover {
+  transform: translateY(3px);
+  box-shadow: none;
+}
+.playButtonArea {
+  margin-top: 30px;
+}

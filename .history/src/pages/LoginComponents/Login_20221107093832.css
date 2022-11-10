@@ -1,0 +1,13 @@
+.login {
+  background-color: white;
+  max-width: 400px;
+  height: 250px;
+  margin: 0 auto;
+  transform: translateY(50%);
+  box-shadow: 3px 3p3px black;
+}
+.login-body {
+  background-color: rgb(241, 234, 234);
+  height: calc(100vh - 70px);
+  width: 100%;
+}

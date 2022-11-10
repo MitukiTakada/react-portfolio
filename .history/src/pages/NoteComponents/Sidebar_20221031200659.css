@@ -1,0 +1,16 @@
+.side-bar {
+  flex: 30%;
+  height: 100vh;
+  border-right: ;
+}
+.title-text h1 {
+  font-size: 1.5rem;
+}
+.side-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.add-button {
+  margin-right: 20px;
+}

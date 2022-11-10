@@ -1,0 +1,10 @@
+.side-bar {
+  flex: 30%;
+}
+.title-text h1 {
+  font-size: 1.5rem;
+}
+.side-top {
+  display: flex;
+  align-items: center;
+}

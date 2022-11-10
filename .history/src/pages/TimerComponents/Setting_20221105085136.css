@@ -1,0 +1,9 @@
+.settings {
+  display: flex;
+}
+
+.slider {
+  height: 40px;
+  border: 2px, solid, red;
+  border-radius: ;
+}

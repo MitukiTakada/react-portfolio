@@ -1,0 +1,10 @@
+.playButton {
+  background-color: rgb(67, 185, 185);
+  color: antiquewhite;
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 10px 15px;
+  border-radius: 5px;
+  transition: all 0.3s;
+  box-shadow: 5px 5px 5px black;
+}

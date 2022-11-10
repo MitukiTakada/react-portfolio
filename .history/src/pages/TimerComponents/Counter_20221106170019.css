@@ -1,0 +1,12 @@
+.counter h1 {
+  font-size: 16px;
+  font-weight: bold;
+}
+.reset-btn {
+  background-color: #999;
+  padding: 10px 15px;
+  border-radius: 10px;
+
+
+  transition: all 0.3s;
+}

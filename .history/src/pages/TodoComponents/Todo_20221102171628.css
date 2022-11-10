@@ -1,0 +1,6 @@
+.todo {
+  background-image: url(./img/mountain.jpg);
+  height: calc(100vh);
+  background-position: center;
+  background-size: cover;
+}

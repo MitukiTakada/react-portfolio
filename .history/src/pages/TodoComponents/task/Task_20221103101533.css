@@ -1,0 +1,24 @@
+.task {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.task-content {
+  width: 70%;
+  background-color: white;
+  padding: 5px 5px 5px 15px;
+  border-radius: 5px;
+}
+.taskDeleteButton{
+  padding: 3px;
+  background-color: white;
+  box-shadow: 5px 5px 5px rgb(131, 125, 125);
+  transition: all 0.4s;
+}
+.taskDeleteButton:hover {
+  background-color: brown;
+  color: white;
+  opacity: 0.8;
+  transform: translateY(3px);
+  
+}

@@ -1,0 +1,11 @@
+.playButton {
+  background-color: teal;
+  color: antiquewhite;
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 10px 15px;
+  transition: all 0.3s;
+}
+.playButtonArea {
+  margin-top: 30px;
+}

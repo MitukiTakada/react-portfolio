@@ -1,0 +1,17 @@
+.playButton {
+  background-color: teal;
+  color: antiquewhite;
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 10px 15px;
+  border-radius: 5px;
+  transition: all 0.3s;
+  box-shadow: 5px 5px 5px black;
+}
+.playButton:hover {
+  t
+}
+.playButtonArea {
+  margin-top: 30px;
+
+}

@@ -1,0 +1,20 @@
+:root {
+  --red: #54e4e;
+  --
+}
+
+.timer-body {
+  background-image: url(./img/pomodoroImg.jpg);
+  height: calc(100vh - 70px);
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  color: #eee;
+}
+
+main {
+  padding-top: 50px;
+  max-width: 340px;
+  margin: 0 auto;
+  text-align: center;
+}

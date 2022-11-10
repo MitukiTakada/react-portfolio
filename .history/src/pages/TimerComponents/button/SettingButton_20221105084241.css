@@ -1,0 +1,20 @@
+.setting-button {
+  background-color: rgc;
+  width: auto;
+  border-radius: 10px;
+  padding: 10px 20px;
+  font-size: 1.4rem;
+  line-height: 36px;
+  transition: all 0.3s;
+}
+.setting-button:hover {
+  transform: translateY(3px);
+}
+.s-b-contents {
+  display: flex;
+  justify-content: space-around;
+}
+.s-b-contents svg {
+  width: 40px;
+  height: 40px;
+}

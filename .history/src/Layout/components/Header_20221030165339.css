@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  align-items: center;
+  background-color: rgb(55, 212, 212);
+  height: 70px;
+}
+
+.pages {
+  display: flex;  
+  justify-content: space-around;
+  ju
+}

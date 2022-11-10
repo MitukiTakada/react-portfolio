@@ -1,0 +1,15 @@
+.setting-button {
+  background-color: #999;
+  width: auto;
+  border-radius: 10px;
+  padding: 10px 20px;
+  font-size: 1.4rem;
+  line-height: 36px;
+  transition: all 0.3s;
+}
+.
+.s-b-contents svg {
+  width: 35px;
+  height: 35px;
+  float: left;
+}

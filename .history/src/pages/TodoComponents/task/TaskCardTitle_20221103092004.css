@@ -1,0 +1,14 @@
+.input-area {
+  margin-bottom: 10px;
+  cursor: pointer;
+  width: 30%;
+  boe
+}
+.taskCardInput {
+  width: 80%;
+  border: none;
+  outline: none;
+  border-radius: 3px;
+  padding: 4px 6px;
+  font-size: 1.1rem;
+}

@@ -1,0 +1,25 @@
+.meditation {
+  background-image: url(./img/meditation.jpg);
+  height: calc(100vh - 70px);
+  background-size: cover;
+  background-position: center;
+}
+.buttons {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-around;
+}
+.message {
+  margin-top: 50px;
+  text-align: center;
+}
+.message h2 {
+  font-size: 1.25rem;
+  color: antiquewhite;
+  font-weight: bold;
+}
+.select-minutes {
+  display: flex;
+  justify-content: center;
+  transform: translateY(200%);
+}

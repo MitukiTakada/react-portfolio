@@ -1,0 +1,10 @@
+.login {
+  background-color: white;
+  max-width: 400px;
+  height: 250px;
+}
+.login-body {
+  background-color: rgb(241, 234, 234);
+  height: calc(100vh - 70px);
+  width: 100%;
+}

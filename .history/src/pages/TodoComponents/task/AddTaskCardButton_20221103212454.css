@@ -1,0 +1,9 @@
+.addTaskCardButtonArea {
+  margin-left: 1%;
+  margin-top: 25px;
+}
+.addTaskCardButton {
+  width: 80px;
+  height: 80px;
+  border-radius: 50;
+}
