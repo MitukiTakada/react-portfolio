@@ -20,7 +20,7 @@ const Meditation = () => {
   const [secondsLeft, setSecondsLeft] = useState(0);
   const [selectedMinutes, setSelectedMinutes] = useState(5);
   const [isPaused, setIsPaused] = useState(true);
-  const [isFinished, setIsFinished] = useState(false);
+  const [isFinished, setIsFinished] = useState(true);
   
   const secondsLeftRef = useRef(secondsLeft);
   const isPausedRef = useRef(isPaused);
@@ -109,7 +109,7 @@ const Meditation = () => {
           )}
         </div>
         {isFinished && (
-          <div >
+          <div className="next-btn">
             <NextButton />
           </div>
         )}
